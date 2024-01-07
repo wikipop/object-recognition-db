@@ -1,2 +1,4 @@
 data
 detected
+__pycache__
+.idea
