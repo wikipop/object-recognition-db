@@ -1,4 +1,10 @@
-data
-export
+data/text/*
+!data/text/.gitkeep
+
+export/detected/*
+!export/detected/.gitkeep
+
+debug.log
+
 __pycache__
 .idea
