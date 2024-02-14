@@ -1,6 +1,20 @@
-from Detector import Detector
+import logging
 
-detector = Detector(cuda=True)
+from modules.textAnalysis import TextAnalysis
 
-#.processImage("data/wojciechPiech.jpg")
-detector.processVideo("data/video (2160p).mp4")
+
+def main():
+    TextAnalysis()
+
+
+if __name__ == "__main__":
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s [%(levelname)s] %(message)s",
+        handlers=[
+            logging.FileHandler("debug.log", mode="w"),
+            logging.StreamHandler()
+        ],
+    )
+
+    main()
