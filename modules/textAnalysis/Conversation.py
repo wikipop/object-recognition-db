@@ -31,8 +31,8 @@ class Conversation:
         options = ListElements([
             f"Total messages: {len(self.dataset)}",
             f"Total words: {self.word_freq.sum()}",
-            f"Most common words: {self.clean_noise_words_from_indexes(self.word_freq).head(10).to_dict()}",
-            f"Most common words by author: {[self.clean_noise_words_from_indexes(self.word_freq_by_author[author]).head(10).to_dict() for author in self.word_freq_by_author.index.levels[0]]}",
+            f"Most common words: {self.clean_noise_words_from_indexes(self.word_freq).head(40).to_dict()}",
+            f"Most common words by author: {[self.clean_noise_words_from_indexes(self.word_freq_by_author[author]).head(40).to_dict() for author in self.word_freq_by_author.index.levels[0]]}",
             f"Total unique words: {len(self.word_freq)}",
             f"Total authors: {len(self.author_freq)}",
             f"Average message length: {self.dataset['Content'].str.len().mean()}",
