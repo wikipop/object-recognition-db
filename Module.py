@@ -10,12 +10,12 @@ class Event:
         return self.value == other.value
 
 
-class Continue:
+class Continue(Event):
     def __init__(self):
         super().__init__(False)
 
 
-class Break:
+class Break(Event):
     def __init__(self):
         super().__init__(True)
 
@@ -35,7 +35,7 @@ class Module:
         self.__start__()
 
         try:
-            while not self.loop_function():
+            while self.loop_function() == Continue():
                 pass
 
             self.__end__()

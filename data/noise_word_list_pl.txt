@@ -1,0 +1,376 @@
+a
+a co więcej
+a także
+a w szczególności
+a zwłaszcza
+abo
+abociem
+aboim
+aboś
+abowiem
+aby
+ać
+acz
+aczci
+aczkole
+aczkolwiek
+aczle
+albo
+alboć
+albowiem
+ale
+ale również
+ale też
+aleć
+alias
+alić
+aliż
+ani
+aniżeli
+atoli
+aż
+azaliż
+aże
+ażeby
+bądź
+bezto
+bo
+boby
+boć
+bociem
+bodaj
+bowiem
+by
+bychom
+byle
+było
+byś
+C
+choby
+choć
+choćby
+chocia
+chociaż
+chyba że
+co gorsza
+co gorsze
+coby
+czusz
+czy
+czyli
+D
+dlatego
+dlatego że
+dopokąd
+dopóki
+dopóty
+dotąd
+dyby
+E
+elzi
+ergo
+eż
+G
+gdy
+gdyby
+gdyż
+guli
+I
+i
+i tak
+i/lub
+ile razy
+ilekroć
+im
+iż
+ize
+iże
+J
+jak
+jakby
+jakkolwiek
+jako
+jako że
+jakoby
+jednak
+jednak niemniej
+jednakowo
+jednakowoż
+jednakże
+jesi
+jeśli
+jeżeli
+K
+kej
+ki
+kie
+kiedy
+kim
+L
+le
+lebo
+lecz
+ledwie
+ledwo
+li
+lub
+lubo
+luboć
+M
+mianowicie
+mimo to
+mimo że
+minus
+N
+nadto
+natomiast
+ni
+niby
+niczym
+niemniej jednak
+nim
+niż
+niźli
+O
+o ile
+oprócz tego
+oraz
+P
+pak
+pakli
+plus
+po czym
+poczem
+podczas gdy
+póki
+ponieważ
+póty
+poza tym
+prawda
+przedsię
+przeto
+przy czym
+przy tym
+R
+razy
+recte
+równak
+S
+skoro
+T
+ta
+taki
+temu
+tj.
+to
+to jest
+to znaczy
+toteż
+toż
+tudzież
+tylko
+U
+umówmy się
+V
+vel
+W
+w przeciwnym razie
+w sensie
+w takim razie
+w związku z czym
+wai
+więc
+wiem
+wprawdzie
+wszelako
+Z
+z tego powodu
+z tym że
+za to
+zaledwie
+zamiast
+zanim
+zarówno
+zaś
+zatem
+że
+żeby
+żeby tylko
+żema co więcej
+a także
+a w szczególności
+a zwłaszcza
+abo
+abociem
+aboim
+aboś
+abowiem
+aby
+ać
+acz
+aczci
+aczkole
+aczkolwiek
+aczle
+albo
+alboć
+albowiem
+ale
+ale również
+ale też
+aleć
+alias
+alić
+aliż
+ani
+aniżeli
+atoli
+aż
+azaliż
+aże
+ażeby
+bądź
+bezto
+bo
+boby
+boć
+bociem
+bodaj
+bowiem
+by
+bychom
+byle
+było
+byś
+choby
+choć
+choćby
+chocia
+chociaż
+chyba że
+co gorsza
+co gorsze
+coby
+czusz
+czy
+czyli
+dlatego
+dlatego że
+dopokąd
+dopóki
+dopóty
+dotąd
+dyby
+elzi
+ergo
+eż
+gdy
+gdyby
+gdyż
+guli
+i tak
+i/lub
+ile razy
+ilekroć
+im
+iż
+ize
+iże
+jak
+jakby
+jakkolwiek
+jako
+jako że
+jakoby
+jednak
+jednak niemniej
+jednakowo
+jednakowoż
+jednakże
+jesi
+jeśli
+jeżeli
+kej
+ki
+kie
+kiedy
+kim
+le
+lebo
+lecz
+ledwie
+ledwo
+li
+lub
+lubo
+luboć
+mianowicie
+mimo to
+mimo że
+minus
+nadto
+natomiast
+ni
+niby
+niczym
+niemniej jednak
+nim
+niż
+niźli
+o ile
+oprócz tego
+oraz
+pak
+pakli
+plus
+po czym
+poczem
+podczas gdy
+póki
+ponieważ
+póty
+poza tym
+prawda
+przedsię
+przeto
+przy czym
+przy tym
+razy
+recte
+równak
+skoro
+ta
+taki
+temu
+tj.
+to
+to jest
+to znaczy
+toteż
+toż
+tudzież
+tylko
+umówmy się
+vel
+w przeciwnym razie
+w sensie
+w takim razie
+w związku z czym
+wai
+więc
+wiem
+wprawdzie
+wszelako
+z tego powodu
+z tym że
+za to
+zaledwie
+zamiast
+zanim
+zarówno
+zaś
+zatem
+że
+żeby
+żeby tylko
+żem
